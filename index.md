@@ -6,3 +6,9 @@
 # <h5>Test 6</h5>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+<?php
+  echo "Hello World !";
+?>
+```
