@@ -4,3 +4,5 @@
 # <h4>Test 4</h4>
 # <h5>Test 5</h5>
 # <h5>Test 6</h5>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
